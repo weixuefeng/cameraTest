@@ -1,5 +1,7 @@
 # cameraTest
 
+> [参考](https://developer.android.com/guide/topics/media/camera)
+
 ## 流程
 
 1. 权限配置， AndroidManifest.xml 配置
